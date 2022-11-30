@@ -18,6 +18,9 @@ this contract will get deployed with some tokens minted for the distribution to 
 
 ## Deploy result in ropsten network
 Deploying contracts with the account: 0x36615d222082A7ffF780AE4a93D72b8E344bbB92
+
 Account balance: 992797350332357680
+
 Token address: 0x48F4b3A7903163fd5d04B91450F01B06D8254585
+
 Staker address: 0xA9bF4Cf53F4E08441682d62f73A24DD5E3A92761
